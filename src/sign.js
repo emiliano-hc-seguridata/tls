@@ -1,6 +1,5 @@
 /* eslint-disable no-undef*/
 import { useRef, useState } from 'react';
-import { arrayBufferToString } from "./SgDataCryptoJsLitev1.7.NOMIN.js";
 
 
 
